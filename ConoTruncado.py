@@ -20,7 +20,7 @@ def volCono(R,r,h):
     volumen=((1/3)*(math.pi)*(h)*(R**2+r**2+R*r))
     
     # Muestra en consola el resultado del volumen
-    print("El volumen de el Cono Truncado es = "+str(volumen)+" Cm ")
+    print("El volumen de el Cono Truncado es = "+str(volumen)+" Cm cubicos ")
     
 # Llamado a la función que cálcula el volumen de un cono truncado
 volCono(R,r,h)
