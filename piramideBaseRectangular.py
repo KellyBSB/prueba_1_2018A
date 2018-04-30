@@ -1,11 +1,11 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Sun Apr 29 23:00:39 2018
 
 @author: José Cortez
 """
 #Ingreso de datos
-print("**********Cálculo del área de una pirámide de base rectángular**********")
+print("**********Cálculo del volumen de una pirámide de base rectángular**********")
 l=float(input("Ingrese el valor del mayor radio en centímetros\n"))
 h=float(input("Ingrese el valor de la altura en centímetros\n"))
 

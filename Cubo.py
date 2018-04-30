@@ -1,11 +1,11 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Sun Apr 29 22:34:38 2018
 
 @author: José Cortez
 """
 #Ingreso de datos
-print("**********Cálculo del área de un Cubo**********")
+print("**********Cálculo del volumen de un Cubo**********")
 l=float(input("Ingrese el valor de la longuitud del lado\n"))
 
 #Función que cálcula el volumen del cubo
