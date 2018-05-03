@@ -7,7 +7,7 @@ Created on Sun Apr 29 15:06:08 2018
 import math# Biblioteca para operaciones matemáticas
 
 #Ingreso de datos
-print("**********Cálculo del volumen de un Cono Truncado**********")
+print("**********Cálculo del área de un Cono Truncado**********")
 R=float(input("Ingrese el valor del mayor radio en centímetros\n"))
 r=float(input("Ingrese el valor del menor radio en centímetros\n"))
 h=float(input("Ingrese el valor de la altura en centímetros\n"))
