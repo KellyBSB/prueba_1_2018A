@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 29 23:06:19 2018
 
-@author: José Cortez
+@author: Diana Narváez
 """
 import math# Biblioteca para operaciones matemáticas
 
