@@ -19,8 +19,8 @@ def calculoVolumen(n):
         import PiramideTriangular
         PiramideTriangular.volPirTri
     elif n==5:
-        import volEsfera
-        volEsfera.volEsfera
+        import VolEsfera
+        VolEsfera.volEsfera
     elif n==0:
         bandera=False
         return bandera
