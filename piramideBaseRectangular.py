@@ -10,7 +10,7 @@ l=float(input("Ingrese el valor del mayor radio en centímetros\n"))
 h=float(input("Ingrese el valor de la altura en centímetros\n"))
 
 #Funcion que calcula el volumen de una pirámide de base rectángular
-def volCono(l,h):
+def volPiraRec(l,h):
     
     # Cálculo del volumen de la figura
     volumen=(1/3*(l*l*h))
@@ -19,4 +19,4 @@ def volCono(l,h):
     print("El volumen de la pirámide de base rectángular = "+str(volumen)+" Cm cúbicos ")
     
 # Llamado a la función que cálcula el volumen de la piramide de base rectángular
-volCono(l,h)
+volPiraRec(l,h)

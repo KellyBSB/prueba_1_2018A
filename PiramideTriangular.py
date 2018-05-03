@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+﻿# -*- coding: utf-8 -*-
 """
 Created on Sun Apr 29 22:48:33 2018
 
@@ -12,7 +12,7 @@ l=float(input("Ingrese el valor del lado en centímetros\n"))
 h=float(input("Ingrese el valor de la altura en centímetros\n"))
 
 #Función que calcula del volumen de una pirámide de base triángular(regular)
-def volCono(l,h):
+def volPirTri(l,h):
     
     # Cálculo del volumen de la figura
     volumen=(math.sqrt(3)*(1/12)*(l**2)*h)
@@ -22,4 +22,4 @@ def volCono(l,h):
     
 # Llamado a la función que cálcula el volumen de una pirámide de 
 #base triángular (regular)
-volCono(l,h)
+volPirTri(l,h)
